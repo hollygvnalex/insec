@@ -4,6 +4,7 @@ var narrativeArray = [
   [3000, ['Do not give in to sleep'], 3000, ['laundry'], 'day', true],
   [2000, ['And prisoner of time. '], 1000, ['laundry'], 'day', true],
   [0, [''], 2000, ['laundry'], 'day', true],
+  [2000, ['Hello Misa. '], 4000, ['interesting'], 'night', true],  
   [0, [''], 3000, ['laundry'], 'day', true],
   [0, [''], 3000, ['laundry'], 'day', true],
   [3000, ['iduhdiuh duhdiuhdiuhd'], 3000, ['architecture'], 'day', true],
