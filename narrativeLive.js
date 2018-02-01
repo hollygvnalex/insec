@@ -4,10 +4,10 @@
 // "Parking", "House", "Shop", "Farm", "Airliner", "Religion"]
 
 var narrativeArray = [
-[10000, ["UliXes, my hero. How are you? I thought I’d never see you again."], 6000, 0, ['Beach'], 'day', true],
-[0, ["Do we know each other."], 2000, 0, ['Beach'], 'day', true],
-[3000, ["We had, once."], 1000, 0, ['Beach'], 'day', true],
-[5000, [""], 2000, 3000, ['Beach'], 'night', true],
+[20000, ["UliXes, my hero. How are you? I thought I’d never see you again."], 8000, 0, ['Beach'], 'day', true],
+[0, ["Do we know each other."], 5000, 0, ['Beach'], 'day', true],
+[0, ["We had, once."], 3000, 0, ['Beach'], 'day', true],
+[5000, [""], 0, 5000, ['Beach'], 'night', true],
 [0, ["I’m sorry… I can’t recall your name."], 6000, 3000, ['Office'], 'day', true],
 [2000, ["Never mind that. Don't try to remember my name, it won’t work anyway."], 4000, 3000, ['Office'], 'day', true],
 [0, ["what I am talking about"], 2000, 3000, ['Beach'], 'night', true],
